@@ -1,0 +1,61 @@
+body {
+    background-color: gray;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+section {
+    display: inline;
+}
+
+.divv {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    float: left;
+    margin-bottom: 3px;
+    margin-left: 3px;
+ 
+   
+}
+
+#fila1 {
+    float: left;
+    position: absolute;
+}
+
+#fila2 {
+    float: left;
+    position: absolute;
+    top: 102px;
+    left: 0px;
+}
+
+#fila3 {
+    float: left;
+    position: absolute;
+    top: 204px;
+    left: 0px;
+}
+
+#fila4 {
+    float: right;
+    position: absolute;
+    bottom: 0px;
+    right: 4px;
+}
+
+#fila5 {
+    float: right;
+    position: absolute;
+    bottom: 102px;
+    right: 4px;
+}
+
+#fila6 {
+    float: right;
+    position: absolute;
+    bottom: 204px;
+    right: 4px;
+}
